@@ -1,0 +1,10 @@
+baseURL = 'https://shdynila.github.io/0ath-cli-wiki/'
+languageCode = 'en-us'
+title = '0ath CLI Documentation'
+theme = 'hugo-book'
+
+[params]
+  BookLogo = ''
+  BookTitle = '0ath CLI'
+  BookSection = 'docs'
+  BookMenuBundle = '/menu'

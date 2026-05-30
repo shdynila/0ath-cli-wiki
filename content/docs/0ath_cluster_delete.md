@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_cluster_delete.md"
+weight: 10
+---
 ## 0ath cluster delete
 
 Delete the local k3d cluster

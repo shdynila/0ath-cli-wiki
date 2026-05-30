@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_client.md"
+weight: 10
+---
 ## 0ath client
 
 Run the 0_ath game client

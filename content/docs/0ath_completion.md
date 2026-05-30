@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_completion.md"
+weight: 10
+---
 ## 0ath completion
 
 Generate the autocompletion script for the specified shell

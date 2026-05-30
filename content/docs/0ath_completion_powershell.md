@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_completion_powershell.md"
+weight: 10
+---
 ## 0ath completion powershell
 
 Generate the autocompletion script for powershell

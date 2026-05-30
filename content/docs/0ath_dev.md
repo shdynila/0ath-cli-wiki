@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_dev.md"
+weight: 10
+---
 ## 0ath dev
 
 Run the entire 0_ath backend stack locally

@@ -1,3 +1,7 @@
+---
+title: "..\0ath-cli-wiki\content\docs\0ath_deploy.md"
+weight: 10
+---
 ## 0ath deploy
 
 Deploy the MMO cluster to Kubernetes
