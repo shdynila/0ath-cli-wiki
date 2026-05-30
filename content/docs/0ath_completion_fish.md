@@ -1,5 +1,5 @@
 ---
-title: "..\0ath-cli-wiki\content\docs\0ath_completion_fish.md"
+title: "0ath_completion_fish"
 weight: 10
 ---
 ## 0ath completion fish

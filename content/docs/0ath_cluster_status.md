@@ -1,5 +1,5 @@
 ---
-title: "..\0ath-cli-wiki\content\docs\0ath_cluster_status.md"
+title: "0ath_cluster_status"
 weight: 10
 ---
 ## 0ath cluster status

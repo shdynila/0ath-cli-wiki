@@ -1,5 +1,5 @@
 ---
-title: "..\0ath-cli-wiki\content\docs\0ath_cluster_create.md"
+title: "0ath_cluster_create"
 weight: 10
 ---
 ## 0ath cluster create

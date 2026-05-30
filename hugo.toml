@@ -1,5 +1,5 @@
 baseURL = 'https://shdynila.github.io/0ath-cli-wiki/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = '0ath CLI Documentation'
 theme = 'hugo-book'
 

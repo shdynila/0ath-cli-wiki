@@ -1,5 +1,5 @@
 ---
-title: "..\0ath-cli-wiki\content\docs\0ath_dev.md"
+title: "0ath_dev"
 weight: 10
 ---
 ## 0ath dev
