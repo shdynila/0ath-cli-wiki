@@ -1,20 +1,19 @@
 ---
-title: "0ath_client"
+title: "0ath_sync"
 weight: 10
 ---
-## 0ath client
+## 0ath sync
 
-Run the 0_ath game client
+Sync Obsidian vault to 0_ath_wiki and update CLI docs
 
 ```
-0ath client [flags]
+0ath sync [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help      help for client
-      --offline   Run the client in offline mode
+  -h, --help   help for sync
 ```
 
 ### SEE ALSO
